@@ -34,7 +34,7 @@ class DetailsBody extends StatelessWidget {
               Center(
                 child: ProductImage(
                   image: product.image,
-                  size: size/3,
+                  size: size/4,
                 ),
               ),
               Padding(
